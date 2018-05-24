@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post: Standard"
+title: "Hello World: First Post"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
@@ -10,6 +10,6 @@ tags:
   - standard
 ---
 
-Hello World!
+Hello World! 
 
 <!--more-->

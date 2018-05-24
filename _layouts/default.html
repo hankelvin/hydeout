@@ -3,7 +3,9 @@
 
   {% include head.html %}
 
-  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}" class="theme-base-08" class="layout-reverse">
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+    <body class="theme-base-08">
+      <body class="layout-reverse">
 
     {% include sidebar.html %}
 
@@ -12,5 +14,8 @@
     </main>
 
     {% include custom-foot.html %}
-  </body>
+  
+      </body>
+    </body>
+   </body>
 </html>

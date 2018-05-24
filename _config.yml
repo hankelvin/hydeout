@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            hankelvin.github.io
+title:            kelvin han
 tagline:          'natural language processing and other projects'
-description:      'projects that i have worked on'
+description:      'projects i have worked on'
 url:              hankelvin.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.

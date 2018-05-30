@@ -5,9 +5,5 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  I have a deep interest in natural language processing. My previous experience was in integrity risk management. I believe in    multi-disciplinary and creative approaches to analysing issues and seeking solutions. Love open discussions and knowledge     sharing. Always hungry to learn. Pots and cycles. 
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
